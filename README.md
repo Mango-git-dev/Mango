@@ -1,24 +1,25 @@
 - Mình Không Phải Chó : )
 - Ở đây làm về mấy dự án vui vui(hoặc không)
 
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=500&lines=Hi+I'm+a+Newbie+Pentester;Maybe+Some+Repos+Can+Help+You!)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mango-git-dev&color=red&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Mango-git-dev&color=red)
 
-</div>
+## 💻 Terminal
+```bash
+mango@kali:~$ whoami
+Newbie Pentester | Security Enthusiast
 
----
+mango@kali:~$ cat achievements.txt
+[✓] OverTheWire: Bandit - Full levels
+[✓] OverTheWire: Natas - Full levels
+[✓] TryHackMe: Beginner path completed
 
-## 🔐 About Me
-
-- 🎯 **Focus:** Penetration Testing & Security Research
-- 🌱 **Currently Learning:** Web security & exploitation techniques
-- 💻 **Coding in:** Go, Shell Script, Node.js
-- 🔧 **Building:** Security tools and automation scripts
-
----
+mango@kali:~$ ./status.sh
+[+] Currently: Building security tools
+[+] Learning: Web exploitation techniques
+[+] Motto: "Learn, Break, Build, Repeat"
+```
 
 ## 💻 Tech Stack
 
@@ -34,42 +35,26 @@
 
 ---
 
-## 🏆 CTF Achievements
-```bash
-$ cat achievements.txt
-[✓] OverTheWire: Bandit (All Levels Completed)
-[✓] OverTheWire: Natas (All Levels Completed)
-[✓] TryHackMe: Beginner Path Completed
-[~] Currently working on more challenges...
-```
-
-### 📝 Writeups & Walkthroughs
-- 📌 **Bandit Full Walkthrough** - Complete guide for all levels
-- 📌 **Natas Full Walkthrough** - Web security challenge solutions
-- 📌 **TryHackMe Notes** - Learning path documentation
-
----
-
 ## 📊 GitHub Stats
-
-<div align="center">
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Mango-git-dev&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mango-git-dev&layout=compact&theme=radical&hide_border=true)
 
-</div>
+---
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mango-git-dev&theme=radical&hide_border=true)
 
 ---
 
-## 🎯 Learning Focus
-```python
-learning_path = {
-    "current": ["Web Application Security", "Linux Privilege Escalation"],
-    "next": ["Binary Exploitation", "Reverse Engineering"],
-    "tools": ["Burp Suite", "Metasploit", "Custom Scripts"]
-}
-```
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Mango-git-dev&theme=radical&no-frame=true&row=1&column=7)
+
+---
+
+## 📈 Activity Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mango-git-dev&theme=redical&hide_border=true)](https://github.com/Mango-git-dev)
 
 ---
 
@@ -77,7 +62,6 @@ learning_path = {
 
 💡 **"Every expert was once a beginner"**
 
-*Feel free to check out my repos - they might help you in your journey!* 🚀
+*Keep learning, keep coding, keep trying!* 🚀
 
-💡 *Learning - Coding - Sharing* 🚀
 </div>
