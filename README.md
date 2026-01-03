@@ -59,8 +59,6 @@ root@mango:~$ ./status.sh
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/Mango-git-dev/Mango-git-dev/output/snake.svg)
@@ -68,8 +66,6 @@ root@mango:~$ ./status.sh
 </div>
 
 ---
-
-## 🌊 Matrix Effect
 
 <div align="center">
 
