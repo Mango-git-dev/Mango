@@ -7,15 +7,15 @@
 
 ## 💻 Terminal
 ```bash
-mango@kali:~$ whoami
+root@mango:~$ whoami
 Newbie Pentester | Security Enthusiast
 
-mango@kali:~$ cat achievements.txt
+root@mango:~$ cat achievements.txt
 [✓] OverTheWire: Bandit - Full levels
 [✓] OverTheWire: Natas - Full levels
 [✓] TryHackMe: Beginner path completed
 
-mango@kali:~$ ./status.sh
+root@mango:~$ ./status.sh
 [+] Currently: Building security tools
 [+] Learning: Web exploitation techniques
 [+] Motto: "Learn, Break, Build, Repeat"
@@ -43,20 +43,6 @@ mango@kali:~$ ./status.sh
 
 ---
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mango-git-dev&theme=radical&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Mango-git-dev&theme=radical&no-frame=true&row=1&column=7)
-
----
-
-## 📈 Activity Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mango-git-dev&theme=redical&hide_border=true)](https://github.com/Mango-git-dev)
-
----
 
 <div align="center">
 
