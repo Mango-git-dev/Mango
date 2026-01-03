@@ -9,26 +9,9 @@
 
 <br>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://komarev.com/ghpvc/?username=Mango-git-dev&color=blue&style=flat-square" /><br>
-      <sub><b>Profile Views</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/Mango-git-dev?style=flat-square&color=blue" /><br>
-      <sub><b>Total Stars</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/followers/Mango-git-dev?style=flat-square&color=blue" /><br>
-      <sub><b>Followers</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/CTF-Active-success?style=flat-square" /><br>
-      <sub><b>CTF Status</b></sub>
-    </td>
-  </tr>
-</table>
+| 👁️ Views | ⭐ Stars | 👥 Followers | 📦 Repos | 🔥 Streak | 🏆 CTF |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![](https://komarev.com/ghpvc/?username=Mango-git-dev&color=blue&style=flat-square) | ![](https://img.shields.io/github/stars/Mango-git-dev?style=flat-square&color=blue) | ![](https://img.shields.io/github/followers/Mango-git-dev?style=flat-square&color=blue) | ![](https://img.shields.io/badge/8-blue?style=flat-square) | ![](https://img.shields.io/badge/Learning-Daily-orange?style=flat-square) | ![](https://img.shields.io/badge/Active-success?style=flat-square) |
 
 </div>
 
