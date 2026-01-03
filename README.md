@@ -9,8 +9,26 @@
 
 <br>
 
-| ![Profile Views](https://komarev.com/ghpvc/?username=Mango-git-dev&color=blue) | ![GitHub Stars](https://img.shields.io/github/stars/Mango-git-dev?color=blue) | ![Followers](https://img.shields.io/github/followers/Mango-git-dev?color=blue) |
-|:---:|:---:|:---:|
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://komarev.com/ghpvc/?username=Mango-git-dev&color=blue&style=flat-square" /><br>
+      <sub><b>Profile Views</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/Mango-git-dev?style=flat-square&color=blue" /><br>
+      <sub><b>Total Stars</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/followers/Mango-git-dev?style=flat-square&color=blue" /><br>
+      <sub><b>Followers</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CTF-Active-success?style=flat-square" /><br>
+      <sub><b>CTF Status</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
