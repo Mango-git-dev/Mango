@@ -112,6 +112,5 @@ root@mango:~$ ./status.sh
 ![Snake animation](https://raw.githubusercontent.com/Mango-git-dev/Mango-git-dev/output/snake.svg)
 
 </div>
----
 
-Edit : Deew Mango
+## Edit : Deew Mango
