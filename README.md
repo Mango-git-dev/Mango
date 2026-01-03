@@ -106,4 +106,4 @@ root@mango:~$ ./status.sh
 
 *All security research and testing is conducted ethically and legally in controlled environments for educational purposes only. I do not condone or engage in any illegal activities.*
 
-![Snake animation](https://github.com/Mango-git-dev/Mango-git-dev/actions/workflows/snake.yml/badge.svg)
+![Snake animation]([https://github.com/Mango-git-dev/Mango-git-dev/actions/workflows/snake.yml/badge.svg](https://raw.githubusercontent.com/Mango-git-dev/Mango-git-dev/output/snake.svg))
