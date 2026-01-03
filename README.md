@@ -7,7 +7,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=500&lines=Hi+I'm+a+Newbie+Pentester;Maybe+Some+Repos+Can+Help+You!)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mango-git-dev&color=blue)
+<br>
+
+| ![Profile Views](https://komarev.com/ghpvc/?username=Mango-git-dev&color=blue) | ![GitHub Stars](https://img.shields.io/github/stars/Mango-git-dev?color=blue) | ![Followers](https://img.shields.io/github/followers/Mango-git-dev?color=blue) |
+|:---:|:---:|:---:|
 
 </div>
 
