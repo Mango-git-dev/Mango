@@ -79,4 +79,5 @@ learning_path = {
 
 *Feel free to check out my repos - they might help you in your journey!* 🚀
 
+💡 *Learning - Coding - Sharing* 🚀
 </div>
